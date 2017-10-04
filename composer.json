@@ -22,7 +22,7 @@
         "silex/silex": "^2.2",
         "pimple/pimple": "^3.2",
         "doctrine/cache": "^1.6",
-        "php-coveralls/php-coveralls": "2.0.x-dev"
+        "php-coveralls/php-coveralls": "2.0.x-dev@dev"
     },
     "suggest": {
         "ext-ftp": "Allows using Ftp services.",
